@@ -5,8 +5,6 @@
   with the real red "1", custom fonts, neon Cyberpunk glow and no OnePlus Weather dependency.
 </p>
 
-[![GitHub All Releases Downloads](https://img.shields.io/github/downloads/SameerAlSahab/OPWidgetPlus/total?style=for-the-badge&color=2ea44f)](https://github.com/SameerAlSahab/OPWidgetPlus/releases)
-
 <p align="center">
   <a href="https://github.com/SameerAlSahab/OPWidgetPlus/stargazers"><img src="https://img.shields.io/github/stars/SameerAlSahab/OPWidgetPlus?style=for-the-badge&logo=github&color=eb0028" alt="Stars"></a>
   <a href="https://github.com/SameerAlSahab/OPWidgetPlus/network/members"><img src="https://img.shields.io/github/forks/SameerAlSahab/OPWidgetPlus?style=for-the-badge&logo=github" alt="Forks"></a>
@@ -33,10 +31,10 @@
 - **Works in any launcher** - Pixel, Samsung, Xiaomi, Nova, Lawnchair and more. The widget is drawn as an image, so no OnePlus launcher classes are needed.
 - **Android 6.0+** (minSdk 23).
 - **Real OnePlus red "1"** in the clock hour and the temperature.
+- **Alignment and widget space fixed**: Now you can resize perfectly.
 - **Three widgets**: Clock, Weather, and Weather &amp; Clock.
 - **Fonts you can choose**: OPlus Sans Black, OPlus Sans Light, O Sans Regular.
 - **Styles**: Classic, Cyberpunk (yellow + cyan glow), Neon Cyan, Neon Purple, Neon Green.
-- **Cyberpunk RGB animation** - a smooth 5 second colour flow after you unlock (can be turned off).
 - **"Never Settle" text** - show or hide it, red by default.
 - **Always red hour digit** (optional) - turns the last hour digit red (01, 02, 03 ... 12) instead of only the 1.
 - **Built-in weather** - no OnePlus Weather app and no API key. Pick your city in the app. Data comes from [Open-Meteo](https://open-meteo.com), with °C / °F.
@@ -55,7 +53,6 @@
 | Always red hour digit | Off: only a 1 is red (stock OnePlus). On: the last hour digit is always red. |
 | Widget font | Choose between the three bundled fonts. |
 | Style | Classic or one of the glowing neon styles. |
-| RGB animation | Colour flow after unlock, for the glowing styles. |
 | Show "Never Settle" | Shows the slogan when there is no weather line. |
 | "Never Settle" in red | Red slogan (default) or follow the style colour. |
 | Weather area / °F | City search and temperature unit. |
