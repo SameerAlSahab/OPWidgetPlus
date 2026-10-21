@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_action_bar_title">關於</string>
+    <string name="about_app_version_text">版本 %s</string>
+    <string name="about_privacy_policy">隱私政策</string>
+    <string name="about_release_note_title">更新日誌:</string>
+    <string name="about_terms_service">用戶協議</string>
+    <string name="app_name">OPWidget++</string>
+    <string name="app_not_found">未找到一加天氣</string>
+    <string name="back_button_label">返回</string>
+    <string name="capital_off">關閉</string>
+    <string name="capital_on">開啟</string>
+    <string name="date_format">M月d日</string>
+    <string name="date_month_format">M月d日,</string>
+    <string name="date_weak_format">" EE"</string>
+    <string name="day_and_date_format">M月d日, EE</string>
+    <string name="day_format">EEEE</string>
+    <string name="loading_text">正在載入...</string>
+    <string name="next_button_label">繼續</string>
+    <string name="op_accessibility_quick_settings_page">第 %1$d 頁，共 %2$d 頁</string>
+    <string name="permission_btn_text_denied">退出</string>
+    <string name="permission_btn_text_grant">同意並繼續</string>
+    <string name="permission_dialog_title">權限聲明</string>
+    <string name="searchview_description_clear">清除查詢</string>
+    <string name="searchview_description_search">搜尋</string>
+    <string name="searchview_description_submit">提交查詢</string>
+    <string name="searchview_description_voice">語音搜尋</string>
+    <string name="select_day">選取月份和日期</string>
+    <string name="select_hours">選取小時數</string>
+    <string name="select_minutes">選取分鐘數</string>
+    <string name="select_year">選取年份</string>
+    <string name="skip_button_label">略過</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="time_picker_header_text">設定時間</string>
+    <string name="time_picker_hour_label">時</string>
+    <string name="time_picker_input_error">請輸入有效的時間</string>
+    <string name="time_picker_minute_label">分</string>
+    <string name="time_picker_prompt_label">輸入時間</string>
+    <string name="widget_weather">天氣</string>
+</resources>

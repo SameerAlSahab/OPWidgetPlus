@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_action_bar_title">O</string>
+    <string name="about_app_version_text">Version %s</string>
+    <string name="about_privacy_policy">Politika privatnosti</string>
+    <string name="about_release_note_title">Dnevnik ažuriranja:</string>
+    <string name="about_terms_service">Uslovi korištenja</string>
+    <string name="app_name">OPWidget++</string>
+    <string name="app_not_found">Aplikacija za vremensku prognozu nije pronađena</string>
+    <string name="loading_text">Učitavanje...</string>
+    <string name="permission_btn_text_denied">Napusti</string>
+    <string name="permission_btn_text_grant">OK</string>
+    <string name="permission_dialog_title">Permission statement</string>
+    <string name="select_day">Izaberi mjesec i dan</string>
+    <string name="select_hours">Izaberi sate</string>
+    <string name="select_minutes">Izaberi minute</string>
+    <string name="select_year">Izaberi godinu</string>
+    <string name="time_picker_header_text">Postavi vrijeme</string>
+    <string name="time_picker_hour_label">sat</string>
+    <string name="time_picker_input_error">Unesite važeće vrijeme</string>
+    <string name="time_picker_minute_label">minuta</string>
+    <string name="time_picker_prompt_label">Unesite vrijeme</string>
+    <string name="widget_weather">Vremenska prognoza</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_action_bar_title">Apie</string>
+    <string name="about_app_version_text">Versija %s</string>
+    <string name="about_privacy_policy">Privatumo politika</string>
+    <string name="about_release_note_title">Naujinimo žurnalas:</string>
+    <string name="about_terms_service">Paslaugos teikimo sąlygos</string>
+    <string name="app_name">OPWidget++</string>
+    <string name="app_not_found">Orų programėlė nerasta</string>
+    <string name="loading_text">Įkeliama...</string>
+    <string name="permission_btn_text_denied">Išeiti</string>
+    <string name="permission_btn_text_grant">Gerai</string>
+    <string name="permission_dialog_title">Leidimų pranešimas</string>
+    <string name="select_day">Pasirinkti mėnesį ir dieną</string>
+    <string name="select_hours">Pasirinkti valandas</string>
+    <string name="select_minutes">Pasirinkti minutes</string>
+    <string name="select_year">Pasirinkti metus</string>
+    <string name="time_picker_header_text">Nustatyti laiką</string>
+    <string name="time_picker_hour_label">valanda</string>
+    <string name="time_picker_input_error">Įvesti tinkamą laiką</string>
+    <string name="time_picker_minute_label">minutė</string>
+    <string name="time_picker_prompt_label">Įvesti laiką</string>
+    <string name="widget_weather">Oras</string>
+</resources>

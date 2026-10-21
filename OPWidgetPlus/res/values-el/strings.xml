@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_action_bar_title">Πληροφορίες</string>
+    <string name="about_app_version_text">Έκδοση %s</string>
+    <string name="about_privacy_policy">Πολιτική απορρήτου</string>
+    <string name="about_release_note_title">Αρχείο καταγραφής ενημέρωσης:</string>
+    <string name="about_terms_service">Όροι χρήσης υπηρεσίας</string>
+    <string name="app_name">OPWidget++</string>
+    <string name="app_not_found">Δε βρέθηκε εφαρμογή για τον καιρό</string>
+    <string name="loading_text">Φόρτωση...</string>
+    <string name="permission_btn_text_denied">Έξοδος</string>
+    <string name="permission_btn_text_grant">OΚ</string>
+    <string name="permission_dialog_title">Δήλωση χορήγησης άδειας</string>
+    <string name="select_day">Επιλογή μήνα και ημέρας</string>
+    <string name="select_hours">Επιλογή ωρών</string>
+    <string name="select_minutes">Επιλογή λεπτών</string>
+    <string name="select_year">Επιλογή έτους</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="time_picker_header_text">Ορισμός ώρας</string>
+    <string name="time_picker_hour_label">ώρα</string>
+    <string name="time_picker_input_error">Εισαγωγή έγκυρης ώρας</string>
+    <string name="time_picker_minute_label">λεπτό</string>
+    <string name="time_picker_prompt_label">Πληκτρολόγηση ώρας</string>
+    <string name="widget_weather">Καιρικές συνθήκες</string>
+</resources>

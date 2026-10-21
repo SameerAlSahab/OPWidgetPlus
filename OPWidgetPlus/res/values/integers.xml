@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="integer" name="app_bar_elevation_anim_duration">@integer/op_control_time_225</item>
+    <integer name="bottom_sheet_slide_duration">150</integer>
+    <integer name="button_pressed_animation_delay">100</integer>
+    <integer name="button_pressed_animation_duration">100</integer>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="oneplus_selector_button_frame_druation">18</integer>
+    <integer name="op_button_text_font_weight">600</integer>
+    <integer name="op_control_spin_180">180</integer>
+    <integer name="op_control_spin_360">360</integer>
+    <integer name="op_control_spin_45">45</integer>
+    <integer name="op_control_spin_90">90</integer>
+    <integer name="op_control_time_125">125</integer>
+    <integer name="op_control_time_150">150</integer>
+    <integer name="op_control_time_225">225</integer>
+    <integer name="op_control_time_30">30</integer>
+    <integer name="op_control_time_325">325</integer>
+    <integer name="op_control_time_375">375</integer>
+    <integer name="op_control_time_425">425</integer>
+    <integer name="op_control_time_600">600</integer>
+    <integer name="op_control_time_75">75</integer>
+    <integer name="op_date_picker_mode">2</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+</resources>

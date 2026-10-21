@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="op_control_font_display_h1">oneplus-sans-display-h1</string>
+    <string name="op_control_font_display_h2">oneplus-sans-display-h2</string>
+    <string name="op_control_font_display_h3">oneplus-sans-display-h3</string>
+    <string name="op_control_font_text_body1">oneplus-sans-text-body-1</string>
+    <string name="op_control_font_text_button">oneplus-sans-text-button</string>
+    <string name="op_control_font_text_descriptions">oneplus-sans-text-description</string>
+    <string name="op_control_font_text_h4">oneplus-sans-text-h4</string>
+    <string name="op_control_font_text_h5">oneplus-sans-text-h5</string>
+    <string name="op_control_font_text_h6">oneplus-sans-text-h6</string>
+    <string name="op_control_font_text_subtitle">oneplus-sans-text-subtitle</string>
+</resources>

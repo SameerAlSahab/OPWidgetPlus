@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_action_bar_title">பற்றி</string>
+    <string name="about_app_version_text">பதிப்பு %s</string>
+    <string name="about_privacy_policy">தனியுரிமைக் கொள்கை</string>
+    <string name="about_release_note_title">புதுப்பிப்பு பதிவு:</string>
+    <string name="about_terms_service">சேவை விதிமுறைகள்</string>
+    <string name="app_name">OPWidget++</string>
+    <string name="app_not_found">வானிலைசெயலி இல்லை</string>
+    <string name="loading_text">ஏற்றுகிறது...</string>
+    <string name="permission_btn_text_denied">வெளியேறு</string>
+    <string name="permission_btn_text_grant">சரி</string>
+    <string name="permission_dialog_title">அனுமதிக்கான அறிக்கை</string>
+    <string name="select_day">மாதம் மற்றும் நாளைத் தேர்வுசெய்யவும்</string>
+    <string name="select_hours">மணிநேரத்தை தேர்வுசெய்யவும்</string>
+    <string name="select_minutes">நிமிடத்தைத் தேர்வுசெய்யவும்</string>
+    <string name="select_year">வருடத்தைத் தேர்வுசெய்யவும்</string>
+    <string name="time_picker_header_text">நேரத்தை அமை</string>
+    <string name="time_picker_hour_label">மணிநேரம்</string>
+    <string name="time_picker_input_error">சரியான நேரத்தை உள்ளிடவும்</string>
+    <string name="time_picker_minute_label">நிமிடம்</string>
+    <string name="time_picker_prompt_label">நேரத்திற்குள் தட்டச்சு செய்யவும்</string>
+    <string name="widget_weather">வானிலை</string>
+</resources>

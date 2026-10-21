@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_action_bar_title">Om</string>
+    <string name="about_app_version_text">Version %s</string>
+    <string name="about_privacy_policy">Politik om beskyttelse af personlige oplysninger</string>
+    <string name="about_release_note_title">Opdateringslog:</string>
+    <string name="about_terms_service">Servicebetingelser</string>
+    <string name="app_name">OPWidget++</string>
+    <string name="app_not_found">Vejr-app ikke fundet</string>
+    <string name="loading_text">Indlæser...</string>
+    <string name="permission_btn_text_denied">Afslut</string>
+    <string name="permission_btn_text_grant">OK</string>
+    <string name="permission_dialog_title">Erklæring om tilladelse</string>
+    <string name="select_day">Vælg måned og dag</string>
+    <string name="select_hours">Vælg time</string>
+    <string name="select_minutes">Vælg minutter</string>
+    <string name="select_year">Vælg år</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="time_picker_header_text">Indstil tid</string>
+    <string name="time_picker_hour_label">time</string>
+    <string name="time_picker_input_error">Indtast en gyldig tid</string>
+    <string name="time_picker_minute_label">minut</string>
+    <string name="time_picker_prompt_label">Indtast tid</string>
+    <string name="widget_weather">Vejr</string>
+</resources>

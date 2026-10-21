@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_action_bar_title">Névjegy</string>
+    <string name="about_app_version_text">%s verzió</string>
+    <string name="about_privacy_policy">Adatvédelmi irányelvek</string>
+    <string name="about_release_note_title">Frissítési napló:</string>
+    <string name="about_terms_service">Szolgáltatási feltételek</string>
+    <string name="app_name">OPWidget++</string>
+    <string name="app_not_found">Időjárás alkalmazás nem található</string>
+    <string name="loading_text">Töltés...</string>
+    <string name="permission_btn_text_denied">Kilépés</string>
+    <string name="permission_btn_text_grant">OK</string>
+    <string name="permission_dialog_title">Jogosultsági nyilatkozat</string>
+    <string name="select_day">Hónap és nap kiválasztása</string>
+    <string name="select_hours">Óra kiválasztása</string>
+    <string name="select_minutes">Perc kiválasztása</string>
+    <string name="select_year">Év kiválasztása</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="time_picker_header_text">Idő beállítása</string>
+    <string name="time_picker_hour_label">óra</string>
+    <string name="time_picker_input_error">Adjon meg egy érvényes időt</string>
+    <string name="time_picker_minute_label">perc</string>
+    <string name="time_picker_prompt_label">Írja be az időbe</string>
+    <string name="widget_weather">Időjárás</string>
+</resources>

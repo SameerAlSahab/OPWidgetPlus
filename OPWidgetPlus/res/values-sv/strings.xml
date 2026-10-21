@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_action_bar_title">Om</string>
+    <string name="about_app_version_text">Version %s</string>
+    <string name="about_privacy_policy">Sekretesspolicy</string>
+    <string name="about_release_note_title">Uppdateringslogg:</string>
+    <string name="about_terms_service">Villkor för tjänsten</string>
+    <string name="app_name">OPWidget++</string>
+    <string name="app_not_found">Weather-appen hittades inte</string>
+    <string name="loading_text">Läser in ...</string>
+    <string name="permission_btn_text_denied">Avsluta</string>
+    <string name="permission_btn_text_grant">OK</string>
+    <string name="permission_dialog_title">Behörighetsvillkor</string>
+    <string name="select_day">Välj månad och dag</string>
+    <string name="select_hours">Välj timmar</string>
+    <string name="select_minutes">Välj minuter</string>
+    <string name="select_year">Välj år</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="time_picker_header_text">Ställ in tid</string>
+    <string name="time_picker_hour_label">timme</string>
+    <string name="time_picker_input_error">Ange en giltig tid</string>
+    <string name="time_picker_minute_label">minut</string>
+    <string name="time_picker_prompt_label">Skriv in tid</string>
+    <string name="widget_weather">Väder</string>
+</resources>

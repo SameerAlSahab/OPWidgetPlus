@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_action_bar_title">אודות</string>
+    <string name="about_app_version_text">גרסה %s</string>
+    <string name="about_privacy_policy">מדיניות פרטיות</string>
+    <string name="about_release_note_title">עדכן יומן:</string>
+    <string name="about_terms_service">תנאי שירות</string>
+    <string name="app_name">OPWidget++</string>
+    <string name="app_not_found">אפליקציית מזג אוויר לא נמצאה</string>
+    <string name="loading_text">טוען...</string>
+    <string name="permission_btn_text_denied">יציאה</string>
+    <string name="permission_btn_text_grant">אישור</string>
+    <string name="permission_dialog_title">הצהרת הרשאות</string>
+    <string name="select_day">בחר חודש ויום</string>
+    <string name="select_hours">בחר שעות</string>
+    <string name="select_minutes">בחר דקות</string>
+    <string name="select_year">בחר שנה</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="time_picker_header_text">הגדר זמן</string>
+    <string name="time_picker_hour_label">שעה</string>
+    <string name="time_picker_input_error">הזן שעה חוקית</string>
+    <string name="time_picker_minute_label">דקה</string>
+    <string name="time_picker_prompt_label">הקלד שעה</string>
+    <string name="widget_weather">מזג האוויר</string>
+</resources>

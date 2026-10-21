@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="op_text_size_h1">220.0px</dimen>
+    <dimen name="op_text_size_h2">192.0px</dimen>
+</resources>

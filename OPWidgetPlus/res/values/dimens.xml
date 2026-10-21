@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="clock_clock_hour_colon_min_large">138.0px</dimen>
+    <dimen name="clock_clock_hour_colon_min_middle01">76.0px</dimen>
+    <dimen name="clock_clock_hour_colon_min_middle02">110.0px</dimen>
+    <dimen name="clock_clock_hour_colon_min_middle02_qhd">86.0px</dimen>
+    <dimen name="clock_clock_hour_colon_min_small">35.0px</dimen>
+    <dimen name="clock_date_text_large">48.0px</dimen>
+    <dimen name="clock_date_text_middle01">36.0px</dimen>
+    <dimen name="clock_date_text_middle02">40.0px</dimen>
+    <dimen name="clock_date_text_middle02_qhd">42.0px</dimen>
+    <dimen name="clock_date_text_padding_top_large">12.0px</dimen>
+    <dimen name="clock_date_text_padding_top_middle01">4.0px</dimen>
+    <dimen name="clock_date_text_padding_top_middle02">12.0px</dimen>
+    <dimen name="clock_date_text_padding_top_middle02_qhd">8.0px</dimen>
+    <dimen name="clock_date_text_padding_top_small">4.0px</dimen>
+    <dimen name="clock_date_text_small">23.0px</dimen>
+    <dimen name="clock_day_text_large">138.0px</dimen>
+    <dimen name="clock_day_text_middle01">76.0px</dimen>
+    <dimen name="clock_day_text_middle02">110.0px</dimen>
+    <dimen name="clock_day_text_middle02_qhd">86.0px</dimen>
+    <dimen name="clock_day_text_padding_top_large">110.0px</dimen>
+    <dimen name="clock_day_text_padding_top_middle01">0.0px</dimen>
+    <dimen name="clock_day_text_padding_top_middle02">50.0px</dimen>
+    <dimen name="clock_day_text_padding_top_middle02_qhd">0.0px</dimen>
+    <dimen name="clock_day_text_padding_top_small">0.0px</dimen>
+    <dimen name="clock_day_text_small">35.0px</dimen>
+    <dimen name="compat_button_inset_horizontal_material">4.0dip</dimen>
+    <dimen name="compat_button_inset_vertical_material">6.0dip</dimen>
+    <dimen name="compat_button_padding_horizontal_material">8.0dip</dimen>
+    <dimen name="compat_button_padding_vertical_material">4.0dip</dimen>
+    <dimen name="compat_control_corner_material">2.0dip</dimen>
+    <dimen name="compat_notification_large_icon_max_height">320.0dip</dimen>
+    <dimen name="compat_notification_large_icon_max_width">320.0dip</dimen>
+    <dimen name="notification_action_icon_size">32.0dip</dimen>
+    <dimen name="notification_action_text_size">13.0sp</dimen>
+    <dimen name="notification_big_circle_margin">12.0dip</dimen>
+    <dimen name="notification_content_margin_start">0.0dip</dimen>
+    <dimen name="notification_large_icon_height">64.0dip</dimen>
+    <dimen name="notification_large_icon_width">64.0dip</dimen>
+    <dimen name="notification_main_column_padding_top">0.0dip</dimen>
+    <dimen name="notification_media_narrow_margin">12.0dip</dimen>
+    <dimen name="notification_right_icon_size">16.0dip</dimen>
+    <dimen name="notification_right_side_padding_top">4.0dip</dimen>
+    <dimen name="notification_small_icon_background_padding">3.0dip</dimen>
+    <dimen name="notification_small_icon_size_as_large">24.0dip</dimen>
+    <dimen name="notification_subtext_size">13.0sp</dimen>
+    <dimen name="notification_top_pad">10.0dip</dimen>
+    <dimen name="notification_top_pad_large_text">5.0dip</dimen>
+    <dimen name="op_bottom_app_bar_height">72.0dip</dimen>
+    <dimen name="op_bottom_app_bar_with_fab_height">88.0dip</dimen>
+    <item type="dimen" name="op_control_alpha_0">0.0</item>
+    <item type="dimen" name="op_control_alpha_100">1.0</item>
+    <item type="dimen" name="op_control_alpha_12">0.12</item>
+    <item type="dimen" name="op_control_alpha_18">0.18</item>
+    <item type="dimen" name="op_control_alpha_20">0.2</item>
+    <item type="dimen" name="op_control_alpha_24">0.24</item>
+    <item type="dimen" name="op_control_alpha_40">0.4</item>
+    <item type="dimen" name="op_control_alpha_48">0.48</item>
+    <item type="dimen" name="op_control_alpha_54">0.54</item>
+    <item type="dimen" name="op_control_alpha_9">0.09</item>
+    <item type="dimen" name="op_control_alpha_90">0.9</item>
+    <dimen name="op_control_appbar_size_landscape">64.0dip</dimen>
+    <dimen name="op_control_appbar_size_standard">74.0dip</dimen>
+    <dimen name="op_control_avatar_size1">120.0dip</dimen>
+    <dimen name="op_control_avatar_size2">54.0dip</dimen>
+    <dimen name="op_control_avatar_size3">33.0dip</dimen>
+    <dimen name="op_control_button_item_height_default">40.0dip</dimen>
+    <dimen name="op_control_button_item_height_mini">32.0dip</dimen>
+    <dimen name="op_control_dialog_item_width1">264.0dip</dimen>
+    <dimen name="op_control_dialog_item_width2">344.0dip</dimen>
+    <dimen name="op_control_divider_height_standard">2.0px</dimen>
+    <dimen name="op_control_fab_size_mini">45.0dip</dimen>
+    <dimen name="op_control_fab_size_standard">56.0dip</dimen>
+    <dimen name="op_control_icon_size_button">21.0dip</dimen>
+    <dimen name="op_control_icon_size_display1">120.0dip</dimen>
+    <dimen name="op_control_icon_size_display2">96.0dip</dimen>
+    <dimen name="op_control_icon_size_display3">72.0dip</dimen>
+    <dimen name="op_control_icon_size_display4">48.0dip</dimen>
+    <dimen name="op_control_icon_size_display5">36.0dip</dimen>
+    <dimen name="op_control_icon_size_indicator">16.0dip</dimen>
+    <dimen name="op_control_icon_size_list">21.0dip</dimen>
+    <dimen name="op_control_margin_list_bottom1">10.0dip</dimen>
+    <dimen name="op_control_margin_list_bottom2">13.0dip</dimen>
+    <dimen name="op_control_margin_list_bottom3">15.0dip</dimen>
+    <dimen name="op_control_margin_list_bottom4">21.0dip</dimen>
+    <dimen name="op_control_margin_list_top1">9.0dip</dimen>
+    <dimen name="op_control_margin_list_top2">12.0dip</dimen>
+    <dimen name="op_control_margin_list_top3">15.0dip</dimen>
+    <dimen name="op_control_margin_list_top4">21.0dip</dimen>
+    <dimen name="op_control_margin_screen_bottom1">8.0dip</dimen>
+    <dimen name="op_control_margin_screen_bottom2">16.0dip</dimen>
+    <dimen name="op_control_margin_screen_bottom3">20.0dip</dimen>
+    <dimen name="op_control_margin_screen_left1">8.0dip</dimen>
+    <dimen name="op_control_margin_screen_left2">16.0dip</dimen>
+    <dimen name="op_control_margin_screen_left3">20.0dip</dimen>
+    <dimen name="op_control_margin_screen_right1">8.0dip</dimen>
+    <dimen name="op_control_margin_screen_right2">16.0dip</dimen>
+    <dimen name="op_control_margin_screen_right3">20.0dip</dimen>
+    <dimen name="op_control_margin_space1">4.0dip</dimen>
+    <dimen name="op_control_margin_space2">8.0dip</dimen>
+    <dimen name="op_control_margin_space3">16.0dip</dimen>
+    <dimen name="op_control_margin_space4">20.0dip</dimen>
+    <dimen name="op_control_margin_space5">24.0dip</dimen>
+    <dimen name="op_control_margin_space6">32.0dip</dimen>
+    <dimen name="op_control_margin_space7">40.0dip</dimen>
+    <dimen name="op_control_radius_r12">11.0dip</dimen>
+    <dimen name="op_control_radius_r16">16.0dip</dimen>
+    <dimen name="op_control_radius_r2">2.0dip</dimen>
+    <dimen name="op_control_radius_r32">32.0dip</dimen>
+    <dimen name="op_control_radius_r4">4.0dip</dimen>
+    <item type="dimen" name="op_control_row_space_1">1.03</item>
+    <item type="dimen" name="op_control_row_space_2">1.3</item>
+    <dimen name="op_control_shadow_z1">1.0dip</dimen>
+    <dimen name="op_control_shadow_z2">2.0dip</dimen>
+    <dimen name="op_control_shadow_z3">3.0dip</dimen>
+    <dimen name="op_control_shadow_z4">4.0dip</dimen>
+    <dimen name="op_control_shadow_z5">5.0dip</dimen>
+    <dimen name="op_control_tab_item_height_landscape">24.0dip</dimen>
+    <dimen name="op_control_tab_item_height_line">24.0dip</dimen>
+    <dimen name="op_control_tab_item_height_text">40.0dip</dimen>
+    <item type="dimen" name="op_control_zoom_ratio_0">0.0</item>
+    <item type="dimen" name="op_control_zoom_ratio_10">0.1</item>
+    <item type="dimen" name="op_control_zoom_ratio_100">1.0</item>
+    <item type="dimen" name="op_control_zoom_ratio_110">1.1</item>
+    <item type="dimen" name="op_control_zoom_ratio_115">1.15</item>
+    <item type="dimen" name="op_control_zoom_ratio_60">0.6</item>
+    <item type="dimen" name="op_control_zoom_ratio_85">0.85</item>
+    <item type="dimen" name="op_control_zoom_ratio_90">0.9</item>
+    <item type="dimen" name="op_control_zoom_ratio_95">0.95</item>
+    <dimen name="op_dialog_background_inset">48.0dip</dimen>
+    <dimen name="op_dialog_picker_background_inset">9.0dip</dimen>
+    <item type="dimen" name="op_line_space_multiplier_h2">0.8</item>
+    <dimen name="op_list_item_min_height">64.0dip</dimen>
+    <dimen name="op_progress_dialog_right_padding">0.0dip</dimen>
+    <dimen name="op_reduce_padding_space2">-9.0dip</dimen>
+    <dimen name="op_ripple_radius">22.599976dip</dimen>
+    <dimen name="op_spinner_material_padding_left">18.0dip</dimen>
+    <dimen name="op_spinner_material_padding_right">18.0dip</dimen>
+    <dimen name="op_switch_ripple_radius">18.0dip</dimen>
+    <dimen name="op_text_size_body1">13.0sp</dimen>
+    <dimen name="op_text_size_button">14.0sp</dimen>
+    <dimen name="op_text_size_descriptions">10.0sp</dimen>
+    <dimen name="op_text_size_h1">110.0px</dimen>
+    <dimen name="op_text_size_h2">96.0px</dimen>
+    <dimen name="op_text_size_h3">32.0sp</dimen>
+    <dimen name="op_text_size_h4">28.0sp</dimen>
+    <dimen name="op_text_size_h5">18.0sp</dimen>
+    <dimen name="op_text_size_h6">16.0sp</dimen>
+    <dimen name="op_text_size_subtitle">13.0sp</dimen>
+    <dimen name="op_toolbar_navigation_max_button_height">42.0dip</dimen>
+    <dimen name="subtitle_corner_radius">2.0dip</dimen>
+    <dimen name="subtitle_outline_width">2.0dip</dimen>
+    <dimen name="subtitle_shadow_offset">2.0dip</dimen>
+    <dimen name="subtitle_shadow_radius">2.0dip</dimen>
+    <item type="dimen" name="text_selection_highlight_alpha_material">0.5</item>
+    <dimen name="weather_clock_clock_hour_colon_min_large">165.0px</dimen>
+    <dimen name="weather_clock_clock_hour_colon_min_middle">63.0px</dimen>
+    <dimen name="weather_clock_clock_hour_colon_min_middle01">110.0px</dimen>
+    <dimen name="weather_clock_clock_hour_colon_min_middle02">165.0px</dimen>
+    <dimen name="weather_clock_clock_hour_colon_min_middle02_qhd">136.0px</dimen>
+    <dimen name="weather_clock_clock_hour_colon_min_small">43.0px</dimen>
+    <dimen name="weather_clock_date_text_large">42.0px</dimen>
+    <dimen name="weather_clock_date_text_middle">36.0px</dimen>
+    <dimen name="weather_clock_date_text_middle01">36.0px</dimen>
+    <dimen name="weather_clock_date_text_middle02">42.0px</dimen>
+    <dimen name="weather_clock_date_text_middle02_qhd">38.0px</dimen>
+    <dimen name="weather_clock_date_text_padding_top_large">110.0px</dimen>
+    <dimen name="weather_clock_date_text_padding_top_middle">0.0px</dimen>
+    <dimen name="weather_clock_date_text_padding_top_middle01">0.0px</dimen>
+    <dimen name="weather_clock_date_text_padding_top_middle02">90.0px</dimen>
+    <dimen name="weather_clock_date_text_padding_top_middle02_qhd">0.0px</dimen>
+    <dimen name="weather_clock_date_text_padding_top_small">0.0px</dimen>
+    <dimen name="weather_clock_date_text_small">22.0px</dimen>
+    <dimen name="weather_clock_weather_des_large">63.0px</dimen>
+    <dimen name="weather_clock_weather_des_middle">48.0px</dimen>
+    <dimen name="weather_clock_weather_des_middle01">56.0px</dimen>
+    <dimen name="weather_clock_weather_des_middle02">63.0px</dimen>
+    <dimen name="weather_clock_weather_des_middle02_qhd">58.0px</dimen>
+    <dimen name="weather_clock_weather_des_small">26.0px</dimen>
+    <dimen name="weather_date_text_large">36.0px</dimen>
+    <dimen name="weather_date_text_middle01">36.0px</dimen>
+    <dimen name="weather_date_text_middle02">36.0px</dimen>
+    <dimen name="weather_date_text_middle02_qhd">42.0px</dimen>
+    <dimen name="weather_date_text_padding_top_large">12.0px</dimen>
+    <dimen name="weather_date_text_padding_top_middle01">0.0px</dimen>
+    <dimen name="weather_date_text_padding_top_middle02">5.0px</dimen>
+    <dimen name="weather_date_text_padding_top_middle02_qhd">0.0px</dimen>
+    <dimen name="weather_date_text_padding_top_small">0.0px</dimen>
+    <dimen name="weather_date_text_small">16.0px</dimen>
+    <dimen name="weather_degree_large">230.0px</dimen>
+    <dimen name="weather_degree_middle01">118.0px</dimen>
+    <dimen name="weather_degree_middle02">230.0px</dimen>
+    <dimen name="weather_degree_middle02_qhd">145.0px</dimen>
+    <dimen name="weather_degree_small">44.0px</dimen>
+    <dimen name="weather_padding_top_large">110.0px</dimen>
+    <dimen name="weather_padding_top_middle01">0.0px</dimen>
+    <dimen name="weather_padding_top_middle02">40.0px</dimen>
+    <dimen name="weather_padding_top_middle02_qhd">0.0px</dimen>
+    <dimen name="weather_padding_top_small">0.0px</dimen>
+    <dimen name="weather_slogan1_large">144.0px</dimen>
+    <dimen name="weather_slogan1_middle01">56.0px</dimen>
+    <dimen name="weather_slogan1_middle02">144.0px</dimen>
+    <dimen name="weather_slogan1_middle02_qhd">102.0px</dimen>
+    <dimen name="weather_slogan1_padding_top_large">110.0px</dimen>
+    <dimen name="weather_slogan1_padding_top_middle01">0.0px</dimen>
+    <dimen name="weather_slogan1_padding_top_middle02">40.0px</dimen>
+    <dimen name="weather_slogan1_padding_top_middle02_qhd">0.0px</dimen>
+    <dimen name="weather_slogan1_padding_top_small">0.0px</dimen>
+    <dimen name="weather_slogan1_small">30.0px</dimen>
+    <dimen name="weather_slogan2_large">144.0px</dimen>
+    <dimen name="weather_slogan2_middle01">56.0px</dimen>
+    <dimen name="weather_slogan2_middle02">144.0px</dimen>
+    <dimen name="weather_slogan2_middle02_qhd">102.0px</dimen>
+    <dimen name="weather_slogan2_small">30.0px</dimen>
+    <dimen name="weather_temp_large">230.0px</dimen>
+    <dimen name="weather_temp_middle01">118.0px</dimen>
+    <dimen name="weather_temp_middle02">230.0px</dimen>
+    <dimen name="weather_temp_middle02_qhd">145.0px</dimen>
+    <dimen name="weather_temp_small">44.0px</dimen>
+    <dimen name="weather_weather_des_large">54.0px</dimen>
+    <dimen name="weather_weather_des_middle01">36.0px</dimen>
+    <dimen name="weather_weather_des_middle02">54.0px</dimen>
+    <dimen name="weather_weather_des_middle02_qhd">40.0px</dimen>
+    <dimen name="weather_weather_des_padding_top_large">12.0px</dimen>
+    <dimen name="weather_weather_des_padding_top_middle01">8.0px</dimen>
+    <dimen name="weather_weather_des_padding_top_middle02">5.0px</dimen>
+    <dimen name="weather_weather_des_padding_top_middle02_qhd">5.0px</dimen>
+    <dimen name="weather_weather_des_padding_top_small">3.0px</dimen>
+    <dimen name="weather_weather_des_small">18.0px</dimen>
+</resources>

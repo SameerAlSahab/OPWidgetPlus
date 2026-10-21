@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_action_bar_title">সম্পর্কে</string>
+    <string name="about_app_version_text">সংস্করণ %s</string>
+    <string name="about_privacy_policy">গোপনীয়তা নীতি</string>
+    <string name="about_release_note_title">লগ হালনাগাদ করুনঃ</string>
+    <string name="about_terms_service">পরিষেবার শর্তাবলী</string>
+    <string name="app_name">OPWidget++</string>
+    <string name="app_not_found">আবহাওয়ার অ্যাপ খুঁজে পাওয়া যায়নি</string>
+    <string name="loading_text">লোড হচ্ছে...</string>
+    <string name="permission_btn_text_denied">প্রস্থান করুন</string>
+    <string name="permission_btn_text_grant">ঠিক আছে</string>
+    <string name="permission_dialog_title">অনুমতির বিবৃতি</string>
+    <string name="select_day">মাস এবং দিন বেছে নিন</string>
+    <string name="select_hours">ঘণ্টা বেছে নিন</string>
+    <string name="select_minutes">মিনিট বেছে নিন</string>
+    <string name="select_year">বছর বেছে নিন</string>
+    <string name="time_picker_header_text">সময় সেট করুন</string>
+    <string name="time_picker_hour_label">ঘণ্টা</string>
+    <string name="time_picker_input_error">সঠিক সময় লিখুন</string>
+    <string name="time_picker_minute_label">মিনিট</string>
+    <string name="time_picker_prompt_label">সময় উল্লেখ করুন</string>
+    <string name="widget_weather">আবহাওয়া</string>
+</resources>

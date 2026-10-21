@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_action_bar_title">Acerca de</string>
+    <string name="about_app_version_text">Versión %s</string>
+    <string name="about_privacy_policy">Política de privacidad</string>
+    <string name="about_release_note_title">Registro de actualización:</string>
+    <string name="about_terms_service">Condiciones de servicio</string>
+    <string name="app_name">OPWidget++</string>
+    <string name="app_not_found">No se encontró la aplicación del Tiempo</string>
+    <string name="loading_text">Cargando...</string>
+    <string name="permission_btn_text_denied">Salir</string>
+    <string name="permission_btn_text_grant">Aceptar</string>
+    <string name="permission_dialog_title">Declaración sobre permisos</string>
+    <string name="select_day">Seleccionar mes y día</string>
+    <string name="select_hours">Seleccionar hora</string>
+    <string name="select_minutes">Seleccionar minutos</string>
+    <string name="select_year">Seleccionar año</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="time_picker_header_text">Establecer hora</string>
+    <string name="time_picker_hour_label">hora</string>
+    <string name="time_picker_input_error">Introduce una hora válida</string>
+    <string name="time_picker_minute_label">minuto</string>
+    <string name="time_picker_prompt_label">Escribe la hora</string>
+    <string name="widget_weather">Tiempo</string>
+</resources>

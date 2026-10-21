@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="weather_clock_clock_hour_colon_min_middle01">90.0px</dimen>
+</resources>
