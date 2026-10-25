@@ -35,7 +35,7 @@
 - **Three widgets**: Clock, Weather, and Weather &amp; Clock.
 - **Fonts you can choose**: OPlus Sans Black, OPlus Sans Light, O Sans Regular.
 - **Styles**: Classic, Cyberpunk (yellow + cyan glow), Neon Cyan, Neon Purple, Neon Green.
-- **"Never Settle" text** - show or hide it, red by default.
+- **Never Settle text** - show or hide it, red by default.
 - **Always red hour digit** (optional) - turns the last hour digit red (01, 02, 03 ... 12) instead of only the 1.
 - **Built-in weather** - no OnePlus Weather app and no API key. Pick your city in the app. Data comes from [Open-Meteo](https://open-meteo.com), with °C / °F.
 
@@ -63,6 +63,11 @@ The original OnePlus widget uses custom views and font resources that only the O
 
 Ported from the OnePlus Widget APK (`net.oneplus.widget` 15.0.0) with [AppsPorter](https://github.com/SameerAlSahab/AppsPorter).
 
+## How to Build?
+
+<code>java -jar external/apktool.jar b OPWidgetPlus/</code> <br>
+Then sign using external/signapk.jar with keys provided in keys.
+
 ## Credits
 
 - **[Sameer Al Sahab](https://github.com/SameerAlSahab)** - port, renderer, settings app, [AppsPorter](https://github.com/SameerAlSahab/AppsPorter)
@@ -75,6 +80,10 @@ Ported from the OnePlus Widget APK (`net.oneplus.widget` 15.0.0) with [AppsPorte
 This is an unofficial community project and is not affiliated with or endorsed by OnePlus. OnePlus names, widget designs and fonts belong to their owners.
 
 ## License
-
 Released under the [MIT License](LICENSE).# OPWidgetPlus
+
+- **[apktool](https://github.com/iBotPeaches/Apktool)** - Licensed under Apache License 2.0 
+- **[smali](https://github.com/google/smali)** - Licensed under BSD 3-Clause License
+---
+
 OnePlus OG Widget with tons of mods for any Android device 6.0++
