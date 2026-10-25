@@ -1,5 +1,5 @@
 version: 2.12.1
-apkFileName: OPWidgetPlus(1).apk
+apkFileName: OPWidgetPlus.apk
 usesFramework:
   ids:
   - 1

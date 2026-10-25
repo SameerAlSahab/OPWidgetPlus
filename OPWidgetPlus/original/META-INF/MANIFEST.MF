@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 
 Name: AndroidManifest.xml
-SHA-256-Digest: FUSCxS2PmTaaclr4PlF4ZpZ8SUyAeYm89vcifCaN3Nw=
+SHA-256-Digest: /hwSftSlNruPR0QQMX3fLU3xc99N7fA0lTXrYhT+sYU=
 
 Name: META-INF/androidx.arch.core_core-runtime.version
 SHA-256-Digest: wo/MpTY3vIjhJK8XJd8Ty5jGne3v1i+zzb4c22t2BiQ=
@@ -100,7 +100,10 @@ Name: assets/fonts/OSans-Regular.ttf
 SHA-256-Digest: RtA03YB2VB1N2ShC8e1Ac9ED6G6xeCaq6QhqirE9SI0=
 
 Name: classes.dex
-SHA-256-Digest: jkKmXCgWH1BvRuJ7qIPxKlr7hqELkDF6buZeAWY04Ow=
+SHA-256-Digest: 6wmRXvqPbc3upueW/HTLIxl5keT5tC7K98+qyZhvj1k=
+
+Name: classes2.dex
+SHA-256-Digest: 5zpq214mR+uJh7bJmtZLH7vYw8n/hWAEsgcqCRgCNTs=
 
 Name: com/oneplus/compat/telephony/TelephonyManagerNative.uau
 SHA-256-Digest: 1xYjyd8d63NQbk3t1dP9Ii5IPZfh9bFNA3TFGtco2Mk=
@@ -514,14 +517,14 @@ Name: res/mipmap-xxxhdpi/ic_opwidget.png
 SHA-256-Digest: hSHCsDAOjnd3Lwl5LrCQ0RhfR+m8mObj8GLv5LHweIw=
 
 Name: res/xml/clock_widget_provider.xml
-SHA-256-Digest: +0oF8JFsLYm47+A0fV3reLEKl1Vo4O2iT1oua7V6YFo=
+SHA-256-Digest: uFxllxOQIl+L2EsnGctmt0Q92ypcAtBxvCQtfs9Y3aA=
 
 Name: res/xml/weather_clock_widget_provider.xml
-SHA-256-Digest: fp2vfOaNoqa4WKlY4V5AT17NDH251XtZis205x+e/yg=
+SHA-256-Digest: gRN0thJ1CFkp3GG1u+Gb8M/GFrufGO3rzZ+B1qXGhtM=
 
 Name: res/xml/weather_widget_provider.xml
-SHA-256-Digest: iBA2VY2F8ekjGQolfSZZBKhzT+5Ubbduwt1He7bSFYo=
+SHA-256-Digest: 9s4xj8LdCLedzO0/+YtvBcG7wMKEXOjkLz7WEHstxZ8=
 
 Name: resources.arsc
-SHA-256-Digest: eTWSO2guHmRYhVRvMUJDGyb3RsInluvGbokG+zRo0eU=
+SHA-256-Digest: URYJxlNqE2Equ/jWG78Jy7ggmL3Yhlskcel8W985D4I=
 

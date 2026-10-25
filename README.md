@@ -28,12 +28,11 @@
 
 ## Features
 
-- **Works in any launcher** - Pixel, Samsung, Xiaomi, Nova, Lawnchair and more. The widget is drawn as an image, so no OnePlus launcher classes are needed.
 - **Android 6.0+** (minSdk 23).
 - **Real OnePlus red "1"** in the clock hour and the temperature.
 - **Alignment and widget space fixed**: Now you can resize perfectly.
 - **Three widgets**: Clock, Weather, and Weather &amp; Clock.
-- **Fonts you can choose**: OPlus Sans Black, OPlus Sans Light, O Sans Regular.
+- **Fonts you can choose**: Old OxygenOS Sans, Slate and ColorOS fonts to choose.
 - **Styles**: Classic, Cyberpunk (yellow + cyan glow), Neon Cyan, Neon Purple, Neon Green.
 - **Never Settle text** - show or hide it, red by default.
 - **Always red hour digit** (optional) - turns the last hour digit red (01, 02, 03 ... 12) instead of only the 1.

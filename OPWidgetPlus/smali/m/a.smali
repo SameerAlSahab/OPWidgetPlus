@@ -166,7 +166,7 @@
 
     const/4 v4, 0x2
 
-    const-string v5, "net.oneplus.widget"
+    const-string v5, "com.sameeralsahab.opwidgetplus"
 
     const/4 v6, 0x0
 

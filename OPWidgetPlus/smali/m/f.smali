@@ -216,7 +216,7 @@
 
     sget v1, Lm/f;->b:I
 
-    const-string v3, "net.oneplus.widget"
+    const-string v3, "com.sameeralsahab.opwidgetplus"
 
     const/4 v4, 0x0
 

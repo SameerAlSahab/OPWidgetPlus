@@ -4,7 +4,7 @@
 
 
 # static fields
-.field static final ACTION_TICK:Ljava/lang/String; = "net.oneplus.widget.op.TICK"
+.field static final ACTION_TICK:Ljava/lang/String; = "com.sameeralsahab.opwidgetplus.op.TICK"
 
 .field private static final DEF_H:[I
 
@@ -134,7 +134,7 @@
 
     new-instance v2, Landroid/content/Intent;
 
-    const-class v4, Lnet/oneplus/widget/op/SettingsActivity;
+    const-class v4, Lcom/sameeralsahab/opwidgetplus/ui/WeatherActivity;
 
     invoke-direct {v2, p0, v4}, Landroid/content/Intent;-><init>(Landroid/content/Context;Ljava/lang/Class;)V
 
@@ -727,7 +727,7 @@
 
     invoke-direct {v0, p0, v1}, Landroid/content/Intent;-><init>(Landroid/content/Context;Ljava/lang/Class;)V
 
-    const-string v1, "net.oneplus.widget.op.TICK"
+    const-string v1, "com.sameeralsahab.opwidgetplus.op.TICK"
 
     invoke-virtual {v0, v1}, Landroid/content/Intent;->setAction(Ljava/lang/String;)Landroid/content/Intent;
 
