@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_action_bar_title">情報</string>
+    <string name="about_app_version_text">バージョン %s</string>
+    <string name="about_privacy_policy">プライバシーポリシー</string>
+    <string name="about_release_note_title">更新履歴：</string>
+    <string name="about_terms_service">サービス利用規約</string>
+    <string name="app_name">AAWidgets</string>
+    <string name="app_not_found">天気アプリが見つかりません</string>
+    <string name="loading_text">読み込み中...</string>
+    <string name="permission_btn_text_denied">終了</string>
+    <string name="permission_btn_text_grant">OK</string>
+    <string name="permission_dialog_title">権限に関する宣言</string>
+    <string name="select_day">月と日を選択してください</string>
+    <string name="select_hours">時間を選択してください</string>
+    <string name="select_minutes">分を選択してください</string>
+    <string name="select_year">年を選択してください</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="time_picker_header_text">時間の設定</string>
+    <string name="time_picker_hour_label">時</string>
+    <string name="time_picker_input_error">有効な時刻を入力してください</string>
+    <string name="time_picker_minute_label">分</string>
+    <string name="time_picker_prompt_label">時間を入力してください</string>
+    <string name="widget_weather">天気</string>
+</resources>

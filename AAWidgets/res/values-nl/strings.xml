@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_action_bar_title">Over</string>
+    <string name="about_app_version_text">Versie %s</string>
+    <string name="about_privacy_policy">Privacybeleid</string>
+    <string name="about_release_note_title">Updatelogboek:</string>
+    <string name="about_terms_service">Algemene gebruiksvoorwaarden</string>
+    <string name="app_name">AAWidgets</string>
+    <string name="app_not_found">Weather App Niet Gevonden</string>
+    <string name="loading_text">Laden...</string>
+    <string name="permission_btn_text_denied">Afsluiten</string>
+    <string name="permission_btn_text_grant">OK</string>
+    <string name="permission_dialog_title">Toestemmingsverklaring</string>
+    <string name="select_day">Maand en dag selecteren</string>
+    <string name="select_hours">Uren selecteren</string>
+    <string name="select_minutes">Minuten selecteren</string>
+    <string name="select_year">Jaar selecteren</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="time_picker_header_text">Tijd instellen</string>
+    <string name="time_picker_hour_label">uur</string>
+    <string name="time_picker_input_error">Voer een geldige tijd in</string>
+    <string name="time_picker_minute_label">minuut</string>
+    <string name="time_picker_prompt_label">Typ de tijd in</string>
+    <string name="widget_weather">Weer</string>
+</resources>

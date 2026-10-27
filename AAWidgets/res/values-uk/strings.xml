@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_action_bar_title">Відомості</string>
+    <string name="about_app_version_text">Версія %s</string>
+    <string name="about_privacy_policy">Політика конфіденційності</string>
+    <string name="about_release_note_title">Журнал оновлень:</string>
+    <string name="about_terms_service">Умови використання</string>
+    <string name="app_name">AAWidgets</string>
+    <string name="app_not_found">Додаток \"Погода\" не знайдено</string>
+    <string name="loading_text">Завантаження…</string>
+    <string name="permission_btn_text_denied">Вийти</string>
+    <string name="permission_btn_text_grant">OK</string>
+    <string name="permission_dialog_title">Заява про дозволи</string>
+    <string name="select_day">Виберіть місяць і день</string>
+    <string name="select_hours">Виберіть значення для годин</string>
+    <string name="select_minutes">Виберіть значення для хвилин</string>
+    <string name="select_year">Виберіть рік</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="time_picker_header_text">Установлення часу</string>
+    <string name="time_picker_hour_label">год.</string>
+    <string name="time_picker_input_error">Введіть припустимий час</string>
+    <string name="time_picker_minute_label">хв.</string>
+    <string name="time_picker_prompt_label">Введіть час</string>
+    <string name="widget_weather">Погода</string>
+</resources>

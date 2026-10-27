@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_action_bar_title">इसके बारे में</string>
+    <string name="about_app_version_text">संस्करण %s</string>
+    <string name="about_privacy_policy">गोपनीयता नीति</string>
+    <string name="about_release_note_title">अपडेट लॉग:</string>
+    <string name="about_terms_service">सेवा की शर्तें</string>
+    <string name="app_name">AAWidgets</string>
+    <string name="app_not_found">मौसम ऐप नहीं मिला</string>
+    <string name="loading_text">लोड किया जा रहा है...</string>
+    <string name="permission_btn_text_denied">बाहर निकलें</string>
+    <string name="permission_btn_text_grant">ठीक है</string>
+    <string name="permission_dialog_title">अनुमति कथन</string>
+    <string name="select_day">महीना व दिन चुनें</string>
+    <string name="select_hours">घंटे चुनें</string>
+    <string name="select_minutes">मिनट चुनें</string>
+    <string name="select_year">साल चुनें</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="time_picker_header_text">समय सेट करें</string>
+    <string name="time_picker_hour_label">घंटा</string>
+    <string name="time_picker_input_error">कोई मान्य समय दर्ज करें</string>
+    <string name="time_picker_minute_label">मिनट</string>
+    <string name="time_picker_prompt_label">टाइम टाइप करें</string>
+    <string name="widget_weather">मौसम</string>
+</resources>

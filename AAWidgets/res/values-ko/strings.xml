@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_action_bar_title">정보</string>
+    <string name="about_app_version_text">버전 %s</string>
+    <string name="about_privacy_policy">개인 정보 보호 정책</string>
+    <string name="about_release_note_title">업데이트 로그:</string>
+    <string name="about_terms_service">서비스 약관</string>
+    <string name="app_name">AAWidgets</string>
+    <string name="app_not_found">날씨 앱 찾지 못함</string>
+    <string name="loading_text">로드하는 중...</string>
+    <string name="permission_btn_text_denied">끝내기</string>
+    <string name="permission_btn_text_grant">확인</string>
+    <string name="permission_dialog_title">권한 설명</string>
+    <string name="select_day">월과 일 선택</string>
+    <string name="select_hours">시간 선택</string>
+    <string name="select_minutes">분 선택</string>
+    <string name="select_year">연도 선택</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="time_picker_header_text">시간 설정</string>
+    <string name="time_picker_hour_label">시간</string>
+    <string name="time_picker_input_error">유효한 시간을 입력하세요</string>
+    <string name="time_picker_minute_label">분</string>
+    <string name="time_picker_prompt_label">시간을 입력하세요</string>
+    <string name="widget_weather">날씨</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_action_bar_title">About</string>
+    <string name="about_app_version_text">Version %s</string>
+    <string name="about_privacy_policy">Privacy Policy</string>
+    <string name="about_release_note_title">Update log:</string>
+    <string name="about_terms_service">Terms of Service</string>
+    <string name="app_name">AAWidgets</string>
+    <string name="app_not_found">Weather App Not Found</string>
+    <string name="loading_text">Loading...</string>
+    <string name="permission_btn_text_denied">Exit</string>
+    <string name="permission_btn_text_grant">OK</string>
+    <string name="permission_dialog_title">Permission statement</string>
+    <string name="select_day">Select month and day</string>
+    <string name="select_hours">Select hours</string>
+    <string name="select_minutes">Select minutes</string>
+    <string name="select_year">Select year</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="time_picker_header_text">Set time</string>
+    <string name="time_picker_hour_label">hour</string>
+    <string name="time_picker_input_error">Enter a valid time</string>
+    <string name="time_picker_minute_label">minute</string>
+    <string name="time_picker_prompt_label">Enter time</string>
+    <string name="widget_weather">Weather</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_action_bar_title">పరిచయం</string>
+    <string name="about_app_version_text">వర్షన్ %s</string>
+    <string name="about_privacy_policy">గోప్యతా విధానం</string>
+    <string name="about_release_note_title">అప్‌డేట్ లాగ్:</string>
+    <string name="about_terms_service">సేవా నిబంధనలు</string>
+    <string name="app_name">AAWidgets</string>
+    <string name="app_not_found">వెదర్ యాప్ కనుగొనబడలేదు</string>
+    <string name="loading_text">లోడ్ అవుతోంది...</string>
+    <string name="permission_btn_text_denied">నిష్క్రమించు</string>
+    <string name="permission_btn_text_grant">సరే</string>
+    <string name="permission_dialog_title">అనుమతి ప్రకటన</string>
+    <string name="select_day">నెల మరియు రోజును ఎంచుకోండి</string>
+    <string name="select_hours">గంటలు ఎంచుకోండి</string>
+    <string name="select_minutes">నిమిషాలను ఎంచుకోండి</string>
+    <string name="select_year">సంవత్సరాన్ని ఎంచుకోండి</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="time_picker_header_text">సమయాన్ని సెట్ చేయండి</string>
+    <string name="time_picker_hour_label">గంట</string>
+    <string name="time_picker_input_error">చెల్లే సమయాన్ని నమోదు చేయండి</string>
+    <string name="time_picker_minute_label">నిమిషం</string>
+    <string name="time_picker_prompt_label">సమయాన్ని పేర్కొనండి</string>
+    <string name="widget_weather">వాతావరణం</string>
+</resources>

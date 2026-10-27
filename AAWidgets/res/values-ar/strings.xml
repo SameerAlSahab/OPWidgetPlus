@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_action_bar_title">حول</string>
+    <string name="about_app_version_text">الإصدار %s</string>
+    <string name="about_privacy_policy">سياسة الخصوصية</string>
+    <string name="about_release_note_title">سجل التحديث:</string>
+    <string name="about_terms_service">شروط الخدمة</string>
+    <string name="app_name">AAWidgets</string>
+    <string name="app_not_found">لم يتم العثور على تطبيق الطقس</string>
+    <string name="loading_text">جارِ التحميل...</string>
+    <string name="permission_btn_text_denied">خروج</string>
+    <string name="permission_btn_text_grant">موافق</string>
+    <string name="permission_dialog_title">بيان الإذن</string>
+    <string name="select_day">حدد الشهر واليوم</string>
+    <string name="select_hours">حدد ساعات</string>
+    <string name="select_minutes">حدد دقائق</string>
+    <string name="select_year">حدد السنة</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="time_picker_header_text">تعيين الوقت</string>
+    <string name="time_picker_hour_label">ساعة</string>
+    <string name="time_picker_input_error">أدخل وقتًا صالحًا</string>
+    <string name="time_picker_minute_label">دقيقة</string>
+    <string name="time_picker_prompt_label">كتابة وقت</string>
+    <string name="widget_weather">الطقس</string>
+</resources>

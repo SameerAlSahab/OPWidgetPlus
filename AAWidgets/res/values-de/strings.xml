@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_action_bar_title">Über</string>
+    <string name="about_app_version_text">Version %s</string>
+    <string name="about_privacy_policy">Datenschutzerklärung</string>
+    <string name="about_release_note_title">Update-Protokoll:</string>
+    <string name="about_terms_service">Nutzungsbedingungen</string>
+    <string name="app_name">AAWidgets</string>
+    <string name="app_not_found">Wetter-App nicht gefunden</string>
+    <string name="loading_text">Laden...</string>
+    <string name="permission_btn_text_denied">Beenden</string>
+    <string name="permission_btn_text_grant">OK</string>
+    <string name="permission_dialog_title">Berechtigungserklärung</string>
+    <string name="select_day">Monat und Tag auswählen</string>
+    <string name="select_hours">Stunden auswählen</string>
+    <string name="select_minutes">Minuten auswählen</string>
+    <string name="select_year">Jahr auswählen</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="time_picker_header_text">Uhrzeit einstellen</string>
+    <string name="time_picker_hour_label">Stunde</string>
+    <string name="time_picker_input_error">Gültige Uhrzeit eingeben</string>
+    <string name="time_picker_minute_label">Minute</string>
+    <string name="time_picker_prompt_label">Uhrzeit eingeben</string>
+    <string name="widget_weather">Wetter</string>
+</resources>

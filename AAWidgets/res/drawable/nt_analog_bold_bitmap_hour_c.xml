@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap android:src="@drawable/nt_analog_bold_hour" android:antialias="true" android:tint="@color/nt_ink_c"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

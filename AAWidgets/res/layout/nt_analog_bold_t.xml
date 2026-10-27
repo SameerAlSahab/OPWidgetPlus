@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/nt_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <AnalogClock android:layout_gravity="center" android:id="@id/nt_analog" android:layout_width="fill_parent" android:layout_height="fill_parent" android:dial="@drawable/nt_analog_bg_t" android:hand_hour="@drawable/nt_analog_bold_bitmap_hour_t" android:hand_minute="@drawable/nt_analog_bold_bitmap_minute_t" android:hand_second="@drawable/nt_analog_bold_bitmap_second_t" />
+</FrameLayout>

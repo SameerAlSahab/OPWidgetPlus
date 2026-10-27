@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_action_bar_title">Osnovni podaci</string>
+    <string name="about_app_version_text">Verzija %s</string>
+    <string name="about_privacy_policy">Izjava o privatnosti</string>
+    <string name="about_release_note_title">Evidencija ažuriranja:</string>
+    <string name="about_terms_service">Uslovi korišćenja usluge</string>
+    <string name="app_name">AAWidgets</string>
+    <string name="app_not_found">Aplikacija Vreme nije pronađena</string>
+    <string name="loading_text">Učitava se...</string>
+    <string name="permission_btn_text_denied">Izlaz</string>
+    <string name="permission_btn_text_grant">U redu</string>
+    <string name="permission_dialog_title">Izjava o dozvoli</string>
+    <string name="select_day">Izaberite mesec i dan</string>
+    <string name="select_hours">Izaberite sate</string>
+    <string name="select_minutes">Izaberite minute</string>
+    <string name="select_year">Izaberite godinu</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="time_picker_header_text">Podesite vreme</string>
+    <string name="time_picker_hour_label">sat</string>
+    <string name="time_picker_input_error">Unesite važeće vreme</string>
+    <string name="time_picker_minute_label">minut</string>
+    <string name="time_picker_prompt_label">Otkucajte vreme</string>
+    <string name="widget_weather">Vreme</string>
+</resources>

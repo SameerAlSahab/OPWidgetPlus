@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_action_bar_title">เกี่ยวกับ</string>
+    <string name="about_app_version_text">เวอร์ชัน %s</string>
+    <string name="about_privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="about_release_note_title">ล็อกการอัปเดต:</string>
+    <string name="about_terms_service">เงื่อนไขการใช้บริการ</string>
+    <string name="app_name">AAWidgets</string>
+    <string name="app_not_found">ไม่พบแอป Weather</string>
+    <string name="loading_text">กำลังโหลด...</string>
+    <string name="permission_btn_text_denied">ออก</string>
+    <string name="permission_btn_text_grant">ตกลง</string>
+    <string name="permission_dialog_title">คำชี้แจงสิทธิ์</string>
+    <string name="select_day">เลือกเดือนและวัน</string>
+    <string name="select_hours">เลือกชั่วโมง</string>
+    <string name="select_minutes">เลือกนาที</string>
+    <string name="select_year">เลือกปี</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="time_picker_header_text">ตั้งเวลา</string>
+    <string name="time_picker_hour_label">ชั่วโมง</string>
+    <string name="time_picker_input_error">ป้อนเวลาที่ถูกต้อง</string>
+    <string name="time_picker_minute_label">นาที</string>
+    <string name="time_picker_prompt_label">พิมพ์ภายในเวลาที่กำหนด</string>
+    <string name="widget_weather">Weather</string>
+</resources>

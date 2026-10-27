@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_action_bar_title">च्या बद्दल</string>
+    <string name="about_app_version_text">आवृत्ती: %s</string>
+    <string name="about_privacy_policy">गोपनीयता धोरण</string>
+    <string name="about_release_note_title">लॉग अद्यतनित करा:</string>
+    <string name="about_terms_service">सेवेच्या अटी</string>
+    <string name="app_name">AAWidgets</string>
+    <string name="app_not_found">हवामान अॅप सापडले नाही</string>
+    <string name="loading_text">लोड होत आहे...</string>
+    <string name="permission_btn_text_denied">बाहेर पडा</string>
+    <string name="permission_btn_text_grant">ठीक आहे</string>
+    <string name="permission_dialog_title">परवानगी विधान</string>
+    <string name="select_day">महिना आणि दिवस निवडा</string>
+    <string name="select_hours">तास निवडा</string>
+    <string name="select_minutes">मिनिटे निवडा</string>
+    <string name="select_year">वर्ष निवडा</string>
+    <string name="time_picker_header_text">वेळ सेट करा</string>
+    <string name="time_picker_hour_label">तास</string>
+    <string name="time_picker_input_error">योग्य वेळ प्रविष्ट करा</string>
+    <string name="time_picker_minute_label">मिनिट</string>
+    <string name="time_picker_prompt_label">वेळ टाका</string>
+    <string name="widget_weather">हवामान</string>
+</resources>
